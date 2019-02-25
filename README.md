@@ -1,2 +1,3 @@
 # documentation
-documentation for the group
+## Purpose
+Hold documentation for the CincyPy group
