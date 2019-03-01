@@ -26,22 +26,22 @@ export PROJECT_HOME=$HOME/Projects
 ```
 
 7. Use virtualenvwrapper
--- create a project using python2
+-- create a project using python2  
 `mkvirtualenv <project_name>`
 
--- create a project using python3 (use `which python3` to find path)
+-- create a project using python3 (use `which python3` to find path)  
 `mkvirtualenv <project_name> --python=/usr/bin/python3`
 
--- deactivate a virtualenv
+-- deactivate a virtualenv  
 `deactivate`
 
--- list all virtualenv available
+-- list all virtualenv available  
 `workon`
 
--- activate a virtualenv already created
+-- activate a virtualenv already created  
 `workon <project_name>`
 
--- delete a virtualenv
+-- delete a virtualenv  
 `rmvirtualenv <project_name>`
 
 
