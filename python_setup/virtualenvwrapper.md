@@ -22,25 +22,26 @@ Prereq: New up to date Ubuntu 18.4 minimal installation.
 # where to store out virtual envs
 export WORKON_HOME=$HOME/virtualenvs
 # where the projects will reside
-export PROJECT_HOME=$HOME/Projects```
+export PROJECT_HOME=$HOME/Projects
+```
 
 7. Use virtualenvwrapper
 -- create a project using python2
-mkvirtualenv <project_name>
+`mkvirtualenv <project_name>`
 
 -- create a project using python3 (use `which python3` to find path)
-mkvirtualenv <project_name> --python=/usr/bin/python3
+`mkvirtualenv <project_name> --python=/usr/bin/python3`
 
 -- deactivate a virtualenv
-deactivate
+`deactivate`
 
 -- list all virtualenv available
-workon
+`workon`
 
 -- activate a virtualenv already created
-workon <project_name>
+`workon <project_name>`
 
 -- delete a virtualenv
-rmvirtualenv <project_name>
+`rmvirtualenv <project_name>`
 
 
