@@ -18,10 +18,10 @@ sudo apt-get install virtualenvwrapper
 6. configure ~/.bashrc to use virtualenvwrapper
 vim ~/.bashrc
 -- Add this to the end of the file
-# VIRTUALENVWRAPPER files
-# where to store out virtual envs
+`# VIRTUALENVWRAPPER files`
+`# where to store out virtual envs`
 export WORKON_HOME=$HOME/virtualenvs
-# where the projects will reside
+`# where the projects will reside`
 export PROJECT_HOME=$HOME/Projects
 --
 
