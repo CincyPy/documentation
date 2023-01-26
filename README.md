@@ -10,4 +10,8 @@ This repository is set up to hold links to resources related to our meetup discu
 - [Learn Git Branching](https://learngitbranching.js.org/)
 
 ### Image Processing and Graphics
-- [Pillow Library](https://pillow.readthedocs.io/en/stable/)
+- Image manipulation: [Pillow Library](https://pillow.readthedocs.io/en/stable/)
+- PDF Generation: [ReportLab](https://docs.reportlab.com/reportlab/userguide/ch1_intro/)
+
+### Data Science
+- DataFrame Manipulation (Excel, CSV, etc.) [Pandas](https://pandas.pydata.org/)
