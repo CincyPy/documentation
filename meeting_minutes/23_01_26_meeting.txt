@@ -1,0 +1,36 @@
+
+===============================
+== CINCYPY MEETUP MINUTES
+===============================
+Location:  Campbell County Newport Branch
+Date: 1/26/23
+Time: 6:30
+Attendance: 10
+Recorder: Brian
+
+===============================
+== AGENDA ITEMS
+===============================
+
+1.  Talked about documentation repo updates.
+2.  Did some live coding with pandas.  Also mentioned PySpark as an alternative.
+3.  Saw a demo of UFO sightings with pandas and matplotlib
+4.  Saw a demo of unsolved homocides using pandas, matplotlib, jupyter
+5.  Saw a demo of databricks, pyspark, and pandas
+6.  Ideas for future topics:
+- web dev (with data sci), frontend frameworks, web frameworks, microservices/auth
+- ai / natural language models / neural nets
+- advanced ssh / public/private cryptography
+- aws/infrastructure/cloud/wizlabs.com
+- static site generators (lektor)
+- py4e.com book, raymond hedinger
+- activities: hackathon, stdlib showcase, game jam, datasci showcase
+- python bytes
+
+===============================
+== ACTION ITEMS
+===============================
+
+Action Item		            Owner		Deadline		Status
+Update resources page     Brian   -            
+Add Topics page           Brian   -
