@@ -1,0 +1,21 @@
+===============================
+== CINCYPY MEETUP MINUTES
+===============================
+Location:
+Date:
+Time:
+Attendance:
+Recorder:
+
+===============================
+== AGENDA ITEMS
+===============================
+
+1.  Keep a record of what happened in the meeting.
+2.  Review action items from previous meeting.
+
+===============================
+== ACTION ITEMS
+===============================
+
+Action Item		Owner		Deadline		Status
