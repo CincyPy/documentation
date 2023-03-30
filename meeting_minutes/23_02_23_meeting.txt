@@ -1,0 +1,30 @@
+===============================
+== CINCYPY MEETUP MINUTES
+===============================
+Location: Newport Library
+Date: 2-23-23
+Time: 6:30
+Attendance:
+Recorder: Brian
+
+===============================
+== AGENDA ITEMS
+===============================
+
+1. Introductions
+2. NKU IOT Club introductions
+3. GPT in 60 Lines of Python
+4. Various libraries
+5. OSM Volunteer
+6. Podcast.__init__, realpython podcast, talk python to me, python bytes, python simplified (YT), mCoding videos, arjancodes, lex fridman podcast, darknet diaries, super data science podcast 
+
+===============================
+== ACTION ITEMS
+===============================
+
+Action Item             Owner		Deadline		Status
+pybind11                sam
+pyohio at NKU?          Brian                                   looking for a venue for PyOhio
+erst talk               kevin erst  may
+nerdfight meetup
+https://tasks.hotosm.org/explore
