@@ -1,0 +1,23 @@
+===============================
+== CINCYPY MEETUP MINUTES
+===============================
+Location: Newport Library
+Date: 3/30/23
+Time: 6:30
+Attendance:
+Recorder: Brian
+
+===============================
+== AGENDA ITEMS
+===============================
+
+1.  Introduction
+2.  Sameeul Bashir Samee: "Speeding Up Python Code With C++"
+    pybind11
+    github.com/sameeul/cincy_py_demo
+===============================
+== ACTION ITEMS
+===============================
+
+Action Item		Owner		Deadline		Status
+3.11 performance upgrades / different tool stack
