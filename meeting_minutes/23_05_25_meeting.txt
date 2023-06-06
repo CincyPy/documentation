@@ -1,0 +1,20 @@
+===============================
+== CINCYPY MEETUP MINUTES
+===============================
+Location: Campbell County Library Newport Branch
+Date: 5/25/23
+Time: 6:30 - 8:30
+Attendance: ~8
+Recorder: Brian
+
+===============================
+== AGENDA ITEMS
+===============================
+
+1.  Brian demonstrated pslssg, a static site generator.
+
+===============================
+== ACTION ITEMS
+===============================
+
+Action Item		Owner		Deadline		Status
