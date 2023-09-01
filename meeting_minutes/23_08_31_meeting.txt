@@ -1,0 +1,21 @@
+===============================
+== CINCYPY MEETUP MINUTES
+===============================
+Location: Campbell County Library Newport Branch
+Date: 8/31/23
+Time: 6:30 - 8:30
+Attendance: 7
+Recorder: Brian
+
+===============================
+== AGENDA ITEMS
+===============================
+1. Brian demonstrated environment with IDLE, command line, and REPL
+2. Matt demonstrated beer ETL project wtih VSCode, devcontainers, prefect.  Based on bootcamp DataTalks.club
+3. Eric demonstrated jupyter notebooks and interactive debuggers in VSCode
+
+===============================
+== ACTION ITEMS
+===============================
+
+Action Item		Owner		Deadline		Status
