@@ -1,0 +1,27 @@
+===============================
+== CINCYPY MEETUP MINUTES
+===============================
+Location: Darkness Brewing
+Date: 11-21-24
+Time: 6:30 - 8:30
+Attendance: 6
+Recorder: Brian
+
+===============================
+== AGENDA ITEMS
+===============================
+
+1. Meetup situation
+  - Keep slack, look for meetup alternatives
+  - TechLife Cincinnati may fulfill meetup needs
+  - Required membership isn't what we want, more of a "voluntary ticket" system
+2. Plans for next year
+
+===============================
+== ACTION ITEMS
+===============================
+
+Action Item		Owner		Deadline		Status
+Look into self hosted solutions (mailing list, forum, website improvelemts)
+Setup Opencollective (or othe platform) for finances and donations
+Share personal email
