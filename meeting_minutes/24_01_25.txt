@@ -1,0 +1,38 @@
+===============================
+== CINCYPY MEETUP MINUTES
+===============================
+Location: Newport Library, Kinsella Room
+Date: 1/25/24
+Time: 6:30
+Attendance:
+Recorder: Brian
+
+===============================
+== AGENDA ITEMS
+===============================
+
+1. Welcome! About CincyPy
+2. Introductions
+  - Name, what brings you to CincyPy, Python experience
+3. About the Course
+  - CS50's Introduction to AI with Python
+4. Week 0 Working Session
+  - Install Tools
+  - Find a friend (optional)
+  - Get started on Week 0 Project (if ready)
+5. For Next Week:
+  - Watch Week 0 Video
+  - Work on Week 0 Project
+  - Watch Week 1 Video
+  - Next week we will demo, answer questions about week 0, then start on Week 1
+6. Keep in touch!
+  - Meetup, Slack
+  - Next meeting will be 2/28
+    - I will not be here, need someone to fascilitate
+7. To the pub!
+
+===============================
+== ACTION ITEMS
+===============================
+
+Action Item		Owner		Deadline		Status
