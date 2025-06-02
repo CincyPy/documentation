@@ -1,0 +1,27 @@
+===============================
+== CINCYPY MEETUP MINUTES
+===============================
+Location: Pinnacle Solutions, Kenwood, Cincinnati
+Date: 5/29/25
+Time: 6:30
+Attendance: 18
+Recorder: Brian
+
+===============================
+== AGENDA ITEMS
+===============================
+
+1. Organizational Update (Brian)
+  - Python foundation funding
+  - Introductions
+2. Composable Functions in Python (Steve)
+  - https://pinnsg.com/function-composition-in-python/
+3. Unstructured social time!
+
+===============================
+== ACTION ITEMS
+===============================
+
+Action Item		Owner		Deadline		Status
+Sean Rome's Talk	
+

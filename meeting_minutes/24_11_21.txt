@@ -25,3 +25,4 @@ Action Item		Owner		Deadline		Status
 Look into self hosted solutions (mailing list, forum, website improvelemts)
 Setup Opencollective (or othe platform) for finances and donations
 Share personal email
+Get info on other meetups people know about to cross pollinate
