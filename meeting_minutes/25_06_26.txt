@@ -1,0 +1,29 @@
+===============================
+== CINCYPY MEETUP MINUTES
+===============================
+Location: Pinnacle Solutions (Kenwood)
+Date: 6/26/25
+Time: 6:30
+Attendance: 13
+Recorder: Brian
+
+===============================
+== AGENDA ITEMS
+===============================
+
+1. Sean - Retrieval Augmented Image Generation
+  - Many technologies: Midjourney (difficult, but quality), ChatGPT (quick and dirty)
+  - ChatGPT talks to Dali in the backend, recently upgraded technique to:
+    - improve text rendering, style references, prompt fidelity
+2. Bill - AI benchmarks
+  - Most AI benchmarks are based on grade school reading level questions
+3. Hang out time
+
+===============================
+== ACTION ITEMS
+===============================
+
+Action Item		Owner		Deadline		Status
+Howard talk - July
+Benson talk - August
+
